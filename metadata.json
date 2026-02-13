@@ -1,0 +1,5 @@
+{
+  "name": "Classic Spider Solitaire",
+  "description": "A sleek, responsive Spider Solitaire game built with React, TypeScript, and Tailwind CSS, featuring smooth animations and intuitive gameplay.",
+  "requestFramePermissions": []
+}
